@@ -1,3 +1,28 @@
-// Place all the styles related to the homes controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.page-feature {
+  padding-top: 1.3em;
+}
+
+.page-news {
+  padding-top: 1.3em;
+}
+
+.heading-text {
+  border-bottom: 1px solid rgba(37,38,39,0.15);
+  font-size: 26px;
+  font-weight: 900;
+  padding: 0 0 10px 0;
+}
+
+.item-image {
+  padding-top: 1em;
+  width: 150px;
+  height: 100%; 
+}
+
+.item-content {
+  padding-top: 1em;
+}
+
+.footer-page {
+  padding-top: 1.3em;
+}
